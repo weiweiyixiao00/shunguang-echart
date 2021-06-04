@@ -1,0 +1,15 @@
+{
+  "name": "shunguang-echart",
+  "version": "1.0.0",
+  "description": "shunguang-echart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shunguang-echart",
+    "echart"
+  ],
+  "author": "",
+  "license": "ISC"
+}
